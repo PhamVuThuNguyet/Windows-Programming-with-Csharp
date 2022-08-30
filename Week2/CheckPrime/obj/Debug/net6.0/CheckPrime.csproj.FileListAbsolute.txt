@@ -1,0 +1,15 @@
+D:\Csharp Project\Week1\CheckPrime\bin\Debug\net6.0\CheckPrime.exe
+D:\Csharp Project\Week1\CheckPrime\bin\Debug\net6.0\CheckPrime.deps.json
+D:\Csharp Project\Week1\CheckPrime\bin\Debug\net6.0\CheckPrime.runtimeconfig.json
+D:\Csharp Project\Week1\CheckPrime\bin\Debug\net6.0\CheckPrime.dll
+D:\Csharp Project\Week1\CheckPrime\bin\Debug\net6.0\CheckPrime.pdb
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.csproj.AssemblyReference.cache
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.AssemblyInfoInputs.cache
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.AssemblyInfo.cs
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.dll
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\refint\CheckPrime.dll
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.pdb
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\CheckPrime.genruntimeconfig.cache
+D:\Csharp Project\Week1\CheckPrime\obj\Debug\net6.0\ref\CheckPrime.dll

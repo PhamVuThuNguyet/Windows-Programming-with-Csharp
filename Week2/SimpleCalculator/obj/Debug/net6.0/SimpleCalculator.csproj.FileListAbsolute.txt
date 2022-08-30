@@ -1,0 +1,15 @@
+D:\Csharp Project\Week1\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.exe
+D:\Csharp Project\Week1\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.deps.json
+D:\Csharp Project\Week1\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.runtimeconfig.json
+D:\Csharp Project\Week1\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.dll
+D:\Csharp Project\Week1\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.pdb
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.csproj.AssemblyReference.cache
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfoInputs.cache
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfo.cs
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.dll
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\refint\SimpleCalculator.dll
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.pdb
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.genruntimeconfig.cache
+D:\Csharp Project\Week1\SimpleCalculator\obj\Debug\net6.0\ref\SimpleCalculator.dll

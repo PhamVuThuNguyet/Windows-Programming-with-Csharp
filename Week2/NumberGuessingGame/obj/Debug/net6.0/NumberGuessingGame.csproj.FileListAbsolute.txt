@@ -1,0 +1,15 @@
+D:\Csharp Project\Week1\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.exe
+D:\Csharp Project\Week1\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.deps.json
+D:\Csharp Project\Week1\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.runtimeconfig.json
+D:\Csharp Project\Week1\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.dll
+D:\Csharp Project\Week1\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.pdb
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.csproj.AssemblyReference.cache
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.AssemblyInfoInputs.cache
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.AssemblyInfo.cs
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.dll
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\refint\NumberGuessingGame.dll
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.pdb
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.genruntimeconfig.cache
+D:\Csharp Project\Week1\NumberGuessingGame\obj\Debug\net6.0\ref\NumberGuessingGame.dll
