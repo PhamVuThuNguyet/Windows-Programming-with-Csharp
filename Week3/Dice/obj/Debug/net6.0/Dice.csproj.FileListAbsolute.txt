@@ -1,0 +1,15 @@
+D:\Csharp Project\Week3\Dice\bin\Debug\net6.0\Dice.exe
+D:\Csharp Project\Week3\Dice\bin\Debug\net6.0\Dice.deps.json
+D:\Csharp Project\Week3\Dice\bin\Debug\net6.0\Dice.runtimeconfig.json
+D:\Csharp Project\Week3\Dice\bin\Debug\net6.0\Dice.dll
+D:\Csharp Project\Week3\Dice\bin\Debug\net6.0\Dice.pdb
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.csproj.AssemblyReference.cache
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.AssemblyInfoInputs.cache
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.AssemblyInfo.cs
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.dll
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\refint\Dice.dll
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.pdb
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\Dice.genruntimeconfig.cache
+D:\Csharp Project\Week3\Dice\obj\Debug\net6.0\ref\Dice.dll
