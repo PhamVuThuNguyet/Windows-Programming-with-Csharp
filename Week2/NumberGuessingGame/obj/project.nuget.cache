@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HT5YyS4MOlzGQri4RWE3NNcOmeYwioXvlG0+g38SEGEyV8Ehw2tBcj/O1VZ//vD+AVroMntOws5WK4jYzv3dBQ==",
+  "dgSpecHash": "hX3uo2isKmmqauw2RRn31+uEFTFEicOkfuCJcbdu2g5IL9Rn212f06YfjdR8cmUMRFsUrAKtVnI1vrbhEf2HrQ==",
   "success": true,
-  "projectFilePath": "D:\\Csharp Project\\Week1\\NumberGuessingGame\\NumberGuessingGame.csproj",
+  "projectFilePath": "D:\\Csharp Project\\Week2\\NumberGuessingGame\\NumberGuessingGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

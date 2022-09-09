@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp Project\\Week1\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectUniqueName": "D:\\Csharp Project\\Week2\\SimpleCalculator\\SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "D:\\Csharp Project\\Week1\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectPath": "D:\\Csharp Project\\Week2\\SimpleCalculator\\SimpleCalculator.csproj",
       "packagesPath": "C:\\Users\\Rum3006\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp Project\\Week1\\SimpleCalculator\\obj\\",
+      "outputPath": "D:\\Csharp Project\\Week2\\SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rum3006\\AppData\\Roaming\\NuGet\\NuGet.Config"

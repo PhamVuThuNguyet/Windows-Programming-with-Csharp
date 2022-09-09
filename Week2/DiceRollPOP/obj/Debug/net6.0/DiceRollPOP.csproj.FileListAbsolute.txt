@@ -1,0 +1,15 @@
+D:\Csharp Project\Week2\DiceRollPOP\bin\Debug\net6.0\DiceRollPOP.exe
+D:\Csharp Project\Week2\DiceRollPOP\bin\Debug\net6.0\DiceRollPOP.deps.json
+D:\Csharp Project\Week2\DiceRollPOP\bin\Debug\net6.0\DiceRollPOP.runtimeconfig.json
+D:\Csharp Project\Week2\DiceRollPOP\bin\Debug\net6.0\DiceRollPOP.dll
+D:\Csharp Project\Week2\DiceRollPOP\bin\Debug\net6.0\DiceRollPOP.pdb
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.csproj.AssemblyReference.cache
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.AssemblyInfoInputs.cache
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.AssemblyInfo.cs
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.dll
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\refint\DiceRollPOP.dll
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.pdb
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\DiceRollPOP.genruntimeconfig.cache
+D:\Csharp Project\Week2\DiceRollPOP\obj\Debug\net6.0\ref\DiceRollPOP.dll

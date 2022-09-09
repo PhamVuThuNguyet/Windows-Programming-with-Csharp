@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp Project\\Week1\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj": {}
+    "D:\\Csharp Project\\Week2\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj": {}
   },
   "projects": {
-    "D:\\Csharp Project\\Week1\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj": {
+    "D:\\Csharp Project\\Week2\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp Project\\Week1\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj",
+        "projectUniqueName": "D:\\Csharp Project\\Week2\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj",
         "projectName": "RootOfQuadraticEquation",
-        "projectPath": "D:\\Csharp Project\\Week1\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj",
+        "projectPath": "D:\\Csharp Project\\Week2\\RootOfQuadraticEquation\\RootOfQuadraticEquation.csproj",
         "packagesPath": "C:\\Users\\Rum3006\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp Project\\Week1\\RootOfQuadraticEquation\\obj\\",
+        "outputPath": "D:\\Csharp Project\\Week2\\RootOfQuadraticEquation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rum3006\\AppData\\Roaming\\NuGet\\NuGet.Config"

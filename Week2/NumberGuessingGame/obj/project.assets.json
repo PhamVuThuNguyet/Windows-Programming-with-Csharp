@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp Project\\Week1\\NumberGuessingGame\\NumberGuessingGame.csproj",
+      "projectUniqueName": "D:\\Csharp Project\\Week2\\NumberGuessingGame\\NumberGuessingGame.csproj",
       "projectName": "NumberGuessingGame",
-      "projectPath": "D:\\Csharp Project\\Week1\\NumberGuessingGame\\NumberGuessingGame.csproj",
+      "projectPath": "D:\\Csharp Project\\Week2\\NumberGuessingGame\\NumberGuessingGame.csproj",
       "packagesPath": "C:\\Users\\Rum3006\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp Project\\Week1\\NumberGuessingGame\\obj\\",
+      "outputPath": "D:\\Csharp Project\\Week2\\NumberGuessingGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rum3006\\AppData\\Roaming\\NuGet\\NuGet.Config"

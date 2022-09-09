@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPrime", "CheckPrime\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootOfQuadraticEquation", "RootOfQuadraticEquation\RootOfQuadraticEquation.csproj", "{7757A608-BAD3-4CD7-915B-70C34C9397CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollOOP", "DiceRollOOP\DiceRollOOP.csproj", "{29DBA671-9D23-48C4-A5BF-0876D1A378DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollPOP", "DiceRollPOP\DiceRollPOP.csproj", "{77D4451E-C086-4F81-98C5-85833A4E00BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,5 +32,13 @@ Global
 		{7757A608-BAD3-4CD7-915B-70C34C9397CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E3534B4D-D3E6-412F-A55D-A18D4FF265DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E3534B4D-D3E6-412F-A55D-A18D4FF265DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DBA671-9D23-48C4-A5BF-0876D1A378DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DBA671-9D23-48C4-A5BF-0876D1A378DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DBA671-9D23-48C4-A5BF-0876D1A378DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DBA671-9D23-48C4-A5BF-0876D1A378DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D4451E-C086-4F81-98C5-85833A4E00BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D4451E-C086-4F81-98C5-85833A4E00BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D4451E-C086-4F81-98C5-85833A4E00BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D4451E-C086-4F81-98C5-85833A4E00BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
