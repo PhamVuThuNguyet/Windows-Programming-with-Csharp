@@ -1,27 +1,27 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Dice // Note: actual namespace depends on the project name.
 {
     class Dice
     {
-        private int sidesNo;
-        private int number;
+        private int _sidesNo;
+        private int _number;
 
         public void InputSidesNo()
         {
             Console.Write("Input number of dice sides: ");
-            int sides = int.Parse(Console.ReadLine());
+            int sides = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
             SetSides(sides);
         }
 
         private void SetSides(int sides)
         {
-            sidesNo = sides;
+            _sidesNo = sides;
         }
 
         public int GetSides()
         {
-            return sidesNo;
+            return _sidesNo;
         }
 
         public void Roll()
@@ -30,30 +30,30 @@ namespace MyApp // Note: actual namespace depends on the project name.
             SetRoll(random);
         }
 
-        private void SetRoll(int _number)
+        private void SetRoll(int number)
         {
-            number = _number;
+            this._number = number;
         }
 
         public int GetRoll()
         {
-            return number;
+            return _number;
         }
     }
 
     class Guessing
     {
-        private bool isTrue;
+        private bool _isTrue;
 
         private void SetStatus(bool status)
         {
-            isTrue = status;
+            _isTrue = status;
         }
 
         public void Guess(int rightNumber)
         {
             Console.Write("Enter your number: ");
-            int guessNumber = int.Parse(Console.ReadLine());
+            int guessNumber = int.Parse(Console.ReadLine() ?? throw new InvalidOperationException());
             SetStatus(CheckNumber(guessNumber, rightNumber));
         }
 
@@ -64,12 +64,12 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
         public bool GetStatus()
         {
-            return isTrue;
+            return _isTrue;
         }
     }
     
     
-    internal class Program
+    internal class MainProgram
     {
         static void Main(string[] args)
         {

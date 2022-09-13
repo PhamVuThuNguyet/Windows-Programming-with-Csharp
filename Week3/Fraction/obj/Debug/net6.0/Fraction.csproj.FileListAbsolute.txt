@@ -1,0 +1,15 @@
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.csproj.AssemblyReference.cache
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.AssemblyInfoInputs.cache
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.AssemblyInfo.cs
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week3\Fraction\bin\Debug\net6.0\Fraction.exe
+D:\Csharp Project\Week3\Fraction\bin\Debug\net6.0\Fraction.deps.json
+D:\Csharp Project\Week3\Fraction\bin\Debug\net6.0\Fraction.runtimeconfig.json
+D:\Csharp Project\Week3\Fraction\bin\Debug\net6.0\Fraction.dll
+D:\Csharp Project\Week3\Fraction\bin\Debug\net6.0\Fraction.pdb
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.dll
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\refint\Fraction.dll
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.pdb
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\Fraction.genruntimeconfig.cache
+D:\Csharp Project\Week3\Fraction\obj\Debug\net6.0\ref\Fraction.dll

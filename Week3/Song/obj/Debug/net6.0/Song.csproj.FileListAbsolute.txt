@@ -1,0 +1,15 @@
+D:\Csharp Project\Week3\Song\bin\Debug\net6.0\Song.exe
+D:\Csharp Project\Week3\Song\bin\Debug\net6.0\Song.deps.json
+D:\Csharp Project\Week3\Song\bin\Debug\net6.0\Song.runtimeconfig.json
+D:\Csharp Project\Week3\Song\bin\Debug\net6.0\Song.dll
+D:\Csharp Project\Week3\Song\bin\Debug\net6.0\Song.pdb
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.csproj.AssemblyReference.cache
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.AssemblyInfoInputs.cache
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.AssemblyInfo.cs
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.dll
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\refint\Song.dll
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.pdb
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\Song.genruntimeconfig.cache
+D:\Csharp Project\Week3\Song\obj\Debug\net6.0\ref\Song.dll

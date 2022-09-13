@@ -1,0 +1,15 @@
+D:\Csharp Project\Week3\StudentManagement\bin\Debug\net6.0\StudentManagement.exe
+D:\Csharp Project\Week3\StudentManagement\bin\Debug\net6.0\StudentManagement.deps.json
+D:\Csharp Project\Week3\StudentManagement\bin\Debug\net6.0\StudentManagement.runtimeconfig.json
+D:\Csharp Project\Week3\StudentManagement\bin\Debug\net6.0\StudentManagement.dll
+D:\Csharp Project\Week3\StudentManagement\bin\Debug\net6.0\StudentManagement.pdb
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.AssemblyReference.cache
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfoInputs.cache
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.AssemblyInfo.cs
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.dll
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\refint\StudentManagement.dll
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.pdb
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\StudentManagement.genruntimeconfig.cache
+D:\Csharp Project\Week3\StudentManagement\obj\Debug\net6.0\ref\StudentManagement.dll
