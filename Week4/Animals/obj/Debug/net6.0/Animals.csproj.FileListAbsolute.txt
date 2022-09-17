@@ -1,0 +1,15 @@
+D:\Csharp Project\Week4\Animals\bin\Debug\net6.0\Animals.exe
+D:\Csharp Project\Week4\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\Csharp Project\Week4\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\Csharp Project\Week4\Animals\bin\Debug\net6.0\Animals.dll
+D:\Csharp Project\Week4\Animals\bin\Debug\net6.0\Animals.pdb
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.dll
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.pdb
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\Csharp Project\Week4\Animals\obj\Debug\net6.0\ref\Animals.dll
