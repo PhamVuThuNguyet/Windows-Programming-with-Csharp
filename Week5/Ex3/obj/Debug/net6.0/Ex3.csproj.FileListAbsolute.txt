@@ -1,0 +1,15 @@
+D:\Csharp Project\Week5\Ex3\bin\Debug\net6.0\Ex3.exe
+D:\Csharp Project\Week5\Ex3\bin\Debug\net6.0\Ex3.deps.json
+D:\Csharp Project\Week5\Ex3\bin\Debug\net6.0\Ex3.runtimeconfig.json
+D:\Csharp Project\Week5\Ex3\bin\Debug\net6.0\Ex3.dll
+D:\Csharp Project\Week5\Ex3\bin\Debug\net6.0\Ex3.pdb
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.dll
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\refint\Ex3.dll
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.pdb
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\Ex3.genruntimeconfig.cache
+D:\Csharp Project\Week5\Ex3\obj\Debug\net6.0\ref\Ex3.dll
