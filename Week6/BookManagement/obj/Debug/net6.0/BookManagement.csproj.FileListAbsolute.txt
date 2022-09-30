@@ -1,0 +1,15 @@
+D:\Csharp Project\Week6\BookManagement\bin\Debug\net6.0\BookManagement.exe
+D:\Csharp Project\Week6\BookManagement\bin\Debug\net6.0\BookManagement.deps.json
+D:\Csharp Project\Week6\BookManagement\bin\Debug\net6.0\BookManagement.runtimeconfig.json
+D:\Csharp Project\Week6\BookManagement\bin\Debug\net6.0\BookManagement.dll
+D:\Csharp Project\Week6\BookManagement\bin\Debug\net6.0\BookManagement.pdb
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.csproj.AssemblyReference.cache
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.AssemblyInfoInputs.cache
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.AssemblyInfo.cs
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.dll
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\refint\BookManagement.dll
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.pdb
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\BookManagement.genruntimeconfig.cache
+D:\Csharp Project\Week6\BookManagement\obj\Debug\net6.0\ref\BookManagement.dll
