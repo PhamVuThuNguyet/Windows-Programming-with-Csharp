@@ -14,7 +14,23 @@ namespace BookManagement
         public void Show();
     }
 
-    class Book : IBook
+    class SortByAuthHelper : IComparer<Book>
+    {
+        public int Compare(Book? x, Book? y)
+        {
+            return x.Author.CompareTo(y.Author);
+        }
+    }
+
+    class SortByYearHelper : IComparer<Book>
+    {
+        public int Compare(Book x, Book y)
+        {
+            return x.PublishYear.CompareTo(y.PublishYear);
+        }
+    }
+
+    class Book : IBook, IComparable<Book>
     {
         #region Attributes
 
@@ -97,6 +113,12 @@ namespace BookManagement
                 Chapters.Add(Console.ReadLine());
             }
         }
+
+
+        public int CompareTo(Book? other)
+        {
+            return Title.CompareTo(other.Title);
+        }
     }
 
     class BookList
@@ -134,6 +156,21 @@ namespace BookManagement
                 AddBook();
             }
         }
+
+        public void Sort()
+        {
+            Books.Sort();
+        }
+
+        public void SortByAuth()
+        {
+            Books.Sort(new SortByAuthHelper());
+        }
+
+        public void SortByYear()
+        {
+            Books.Sort(new SortByYearHelper());
+        }
     }
 
     internal class MainProgram
@@ -142,6 +179,23 @@ namespace BookManagement
         {
             BookList bookList = new BookList();
             bookList.InputList();
+
+            Console.WriteLine("=========================================");
+
+            Console.WriteLine("Sort by title: ");
+            bookList.Sort();
+            bookList.ShowList();
+
+            Console.WriteLine("=========================================");
+
+            Console.WriteLine("Sort by author: ");
+            bookList.SortByAuth();
+            bookList.ShowList();
+
+            Console.WriteLine("=========================================");
+
+            Console.WriteLine("Sort by year: ");
+            bookList.SortByYear();
             bookList.ShowList();
         }
     }
