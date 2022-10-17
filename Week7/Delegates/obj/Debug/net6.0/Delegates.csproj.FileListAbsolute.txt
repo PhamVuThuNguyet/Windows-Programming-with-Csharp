@@ -1,0 +1,15 @@
+D:\Csharp Project\Week7\Delegates\bin\Debug\net6.0\Delegates.exe
+D:\Csharp Project\Week7\Delegates\bin\Debug\net6.0\Delegates.deps.json
+D:\Csharp Project\Week7\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+D:\Csharp Project\Week7\Delegates\bin\Debug\net6.0\Delegates.dll
+D:\Csharp Project\Week7\Delegates\bin\Debug\net6.0\Delegates.pdb
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.dll
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.pdb
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+D:\Csharp Project\Week7\Delegates\obj\Debug\net6.0\ref\Delegates.dll
