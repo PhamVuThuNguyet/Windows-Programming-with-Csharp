@@ -1,0 +1,15 @@
+D:\Csharp Project\Week7\Events\bin\Debug\net6.0\Events.exe
+D:\Csharp Project\Week7\Events\bin\Debug\net6.0\Events.deps.json
+D:\Csharp Project\Week7\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+D:\Csharp Project\Week7\Events\bin\Debug\net6.0\Events.dll
+D:\Csharp Project\Week7\Events\bin\Debug\net6.0\Events.pdb
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.dll
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\refint\Events.dll
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.pdb
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+D:\Csharp Project\Week7\Events\obj\Debug\net6.0\ref\Events.dll
