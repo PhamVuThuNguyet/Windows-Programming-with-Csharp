@@ -1,0 +1,15 @@
+D:\Csharp Project\Week7\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\Csharp Project\Week7\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\Csharp Project\Week7\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\Csharp Project\Week7\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\Csharp Project\Week7\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\Csharp Project\Week7\Singleton\obj\Debug\net6.0\ref\Singleton.dll

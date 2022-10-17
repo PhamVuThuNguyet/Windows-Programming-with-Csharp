@@ -123,7 +123,7 @@ namespace BookManagement
 
     class BookList
     {
-        private List<Book> _books;
+        private List<Book> _books = new List<Book>();
 
         public List<Book> Books
         {

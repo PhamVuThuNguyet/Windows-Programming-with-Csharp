@@ -1,5 +1,32 @@
 ﻿namespace AccountManagement
 {
+    class SortByIdHelper : IComparer<Account>
+    {
+        public int Compare(Account x, Account y)
+        {
+            return x.AccountId.CompareTo(y.AccountId);
+        }
+    }
+
+    class SortByNameHelper : IComparer<Account>
+    {
+        public int Compare(Account x, Account y)
+        {
+            return x.FirstName.CompareTo(y.FirstName);
+        }
+    }
+
+    class SortByBalanceHelper : IComparer<Account>
+    {
+        public int Compare(Account x, Account y)
+        {
+            if (ReferenceEquals(x, y)) return 0;
+            if (ReferenceEquals(null, y)) return 1;
+            if (ReferenceEquals(null, x)) return -1;
+            return x.Balance.CompareTo(y.Balance);
+        }
+    }
+
     class Account
     {
         private string _accountId;
@@ -62,7 +89,7 @@
 
     class AccountList
     {
-        private List<Account> _accounts;
+        private List<Account> _accounts = new List<Account>();
 
         public List<Account> Accounts
         {
@@ -134,6 +161,13 @@
                 Console.WriteLine(e.Message);
             }
         }
+
+        public void Remove(string name)
+        {
+            Account acc = Accounts.Find(account => account.FirstName.Equals("Nguyet"));
+            var index = Accounts.BinarySearch(acc, new SortByNameHelper());
+            Accounts.RemoveAt(index);
+        }
     }
 
     internal class MainProgram
@@ -143,9 +177,12 @@
             AccountList accountList = new AccountList();
 
             accountList.NewAccount();
+            accountList.NewAccount();
             accountList.Report();
             accountList.SaveFile("account.txt");
             accountList.LoadFile("account.txt");
+            accountList.Remove("Nguyet");
+            accountList.Report();
         }
     }
 }

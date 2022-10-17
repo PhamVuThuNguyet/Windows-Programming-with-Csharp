@@ -1,0 +1,15 @@
+D:\Csharp Project\Week6\AccountManagement\bin\Debug\net6.0\AccountManagement.exe
+D:\Csharp Project\Week6\AccountManagement\bin\Debug\net6.0\AccountManagement.deps.json
+D:\Csharp Project\Week6\AccountManagement\bin\Debug\net6.0\AccountManagement.runtimeconfig.json
+D:\Csharp Project\Week6\AccountManagement\bin\Debug\net6.0\AccountManagement.dll
+D:\Csharp Project\Week6\AccountManagement\bin\Debug\net6.0\AccountManagement.pdb
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.csproj.AssemblyReference.cache
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.AssemblyInfoInputs.cache
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.AssemblyInfo.cs
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.dll
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\refint\AccountManagement.dll
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.pdb
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\AccountManagement.genruntimeconfig.cache
+D:\Csharp Project\Week6\AccountManagement\obj\Debug\net6.0\ref\AccountManagement.dll

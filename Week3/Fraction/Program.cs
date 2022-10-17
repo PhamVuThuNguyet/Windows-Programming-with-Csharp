@@ -161,6 +161,6 @@
             Fraction addFraction = fraction.Add(fractions[0], fractions[1]);
             addFraction.DisplayNormal();
             addFraction.DisplayAsDecimal();
-        }
+        } 
     }
 }
