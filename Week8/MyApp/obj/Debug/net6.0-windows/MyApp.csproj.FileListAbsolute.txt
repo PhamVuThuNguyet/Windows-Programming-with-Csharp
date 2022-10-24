@@ -1,0 +1,15 @@
+D:\Csharp Project\Week8\MyApp\bin\Debug\net6.0-windows\MyApp.exe
+D:\Csharp Project\Week8\MyApp\bin\Debug\net6.0-windows\MyApp.deps.json
+D:\Csharp Project\Week8\MyApp\bin\Debug\net6.0-windows\MyApp.runtimeconfig.json
+D:\Csharp Project\Week8\MyApp\bin\Debug\net6.0-windows\MyApp.dll
+D:\Csharp Project\Week8\MyApp\bin\Debug\net6.0-windows\MyApp.pdb
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.csproj.AssemblyReference.cache
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.AssemblyInfoInputs.cache
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.AssemblyInfo.cs
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.dll
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\refint\MyApp.dll
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.pdb
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\MyApp.genruntimeconfig.cache
+D:\Csharp Project\Week8\MyApp\obj\Debug\net6.0-windows\ref\MyApp.dll

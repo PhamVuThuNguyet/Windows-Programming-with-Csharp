@@ -1,0 +1,17 @@
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.csproj.AssemblyReference.cache
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.frmEmployeeDetails.resources
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.csproj.GenerateResource.cache
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.AssemblyInfoInputs.cache
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.AssemblyInfo.cs
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week8\DemoCommonControls\bin\Debug\net6.0-windows\DemoCommonControls.exe
+D:\Csharp Project\Week8\DemoCommonControls\bin\Debug\net6.0-windows\DemoCommonControls.deps.json
+D:\Csharp Project\Week8\DemoCommonControls\bin\Debug\net6.0-windows\DemoCommonControls.runtimeconfig.json
+D:\Csharp Project\Week8\DemoCommonControls\bin\Debug\net6.0-windows\DemoCommonControls.dll
+D:\Csharp Project\Week8\DemoCommonControls\bin\Debug\net6.0-windows\DemoCommonControls.pdb
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.dll
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\refint\DemoCommonControls.dll
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.pdb
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\DemoCommonControls.genruntimeconfig.cache
+D:\Csharp Project\Week8\DemoCommonControls\obj\Debug\net6.0-windows\ref\DemoCommonControls.dll

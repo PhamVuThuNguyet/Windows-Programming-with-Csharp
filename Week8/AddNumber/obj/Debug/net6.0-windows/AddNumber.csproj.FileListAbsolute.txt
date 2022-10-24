@@ -1,0 +1,17 @@
+D:\Csharp Project\Week 8\AddNumber\bin\Debug\net6.0-windows\AddNumber.exe
+D:\Csharp Project\Week 8\AddNumber\bin\Debug\net6.0-windows\AddNumber.deps.json
+D:\Csharp Project\Week 8\AddNumber\bin\Debug\net6.0-windows\AddNumber.runtimeconfig.json
+D:\Csharp Project\Week 8\AddNumber\bin\Debug\net6.0-windows\AddNumber.dll
+D:\Csharp Project\Week 8\AddNumber\bin\Debug\net6.0-windows\AddNumber.pdb
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.csproj.AssemblyReference.cache
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.Form1.resources
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.csproj.GenerateResource.cache
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.AssemblyInfoInputs.cache
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.AssemblyInfo.cs
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.csproj.CoreCompileInputs.cache
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.dll
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\refint\AddNumber.dll
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.pdb
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\AddNumber.genruntimeconfig.cache
+D:\Csharp Project\Week 8\AddNumber\obj\Debug\net6.0-windows\ref\AddNumber.dll
