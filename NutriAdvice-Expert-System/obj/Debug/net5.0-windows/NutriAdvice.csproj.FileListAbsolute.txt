@@ -1,0 +1,50 @@
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.exe
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.deps.json
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.runtimeconfig.json
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.runtimeconfig.dev.json
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.dll
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\ref\NutriAdvice.dll
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.pdb
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\CSProlog.dll
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.AssemblyReference.cache
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Form1.resources
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Forms.Form2.resources
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.ConsultPrologAndDisplayResultModule.resources
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.DisplayUserStatusModule.resources
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.UserInputModule.resources
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Properties.Resources.resources
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.GenerateResource.cache
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.AssemblyInfoInputs.cache
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.AssemblyInfo.cs
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.CoreCompileInputs.cache
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.CopyComplete
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.dll
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\ref\NutriAdvice.dll
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.pdb
+C:\Users\jsonr\Documents\git\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.genruntimeconfig.cache
+D:\Csharp Project\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.exe
+D:\Csharp Project\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.deps.json
+D:\Csharp Project\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.runtimeconfig.json
+D:\Csharp Project\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.runtimeconfig.dev.json
+D:\Csharp Project\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.dll
+D:\Csharp Project\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\NutriAdvice.pdb
+D:\Csharp Project\NutriAdvice-Expert-System\bin\Debug\net5.0-windows\CSProlog.dll
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.AssemblyReference.cache
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Form1.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Forms.Form2.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.ConsultPrologAndDisplayResultModule.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.DisplayUserStatusModule.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.UserInputModule.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Properties.Resources.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.GenerateResource.cache
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.AssemblyInfoInputs.cache
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.AssemblyInfo.cs
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.CoreCompileInputs.cache
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.CopyComplete
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.dll
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\refint\NutriAdvice.dll
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.pdb
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.genruntimeconfig.cache
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\ref\NutriAdvice.dll
