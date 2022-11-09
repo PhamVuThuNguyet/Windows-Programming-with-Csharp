@@ -29,7 +29,6 @@ namespace NutriAdvice
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.GetData = new NutriAdvice.Modules.UserInputModule();
             this.DisplayData = new NutriAdvice.Modules.DisplayUserStatusModule();
             this.DisplayResults = new NutriAdvice.Modules.ConsultPrologAndDisplayResultModule();
@@ -88,7 +87,6 @@ namespace NutriAdvice
             this.Controls.Add(this.DisplayData);
             this.Controls.Add(this.GetData);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;

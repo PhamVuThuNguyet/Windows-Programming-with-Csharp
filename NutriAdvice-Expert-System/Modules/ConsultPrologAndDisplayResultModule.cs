@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using NutriAdvice.Classes;
-using Prolog;
+﻿using NutriAdvice.Classes;
 using NutriAdvice.Forms;
+using Prolog;
+using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Net;
+using System.Windows.Forms;
 
 namespace NutriAdvice.Modules
 {
@@ -49,13 +43,29 @@ namespace NutriAdvice.Modules
 
             var prolog = new PrologEngine(persistentCommandHistory: false);
 
-            string filename = "D:\\Csharp Project\\NutriAdvice-Expert-System\\Prolog\\Recipes_List.pl";
+            string filename = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\NutriAdvice-Expert-System\Prolog\Recipes_List.pl";
+
+            if (!File.Exists(filename))
+            {
+                string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\NutriAdvice-Expert-System\Prolog\";
+                FileInfo file = new(path);
+                file.Directory.Create();
+                MessageBox.Show("No File, Downloading .. ");
+                using (WebClient wc = new())
+                {
+                    wc.DownloadFileAsync(
+                        new Uri("https://raw.githubusercontent.com/PhamVuThuNguyet/Windows-Programming-with-Csharp/master/NutriAdvice-Expert-System/Prolog/Recipes_List.pl"),
+                        filename
+                    );
+                }
+                MessageBox.Show("Complete, please click again");
+            }
 
             string query = @"contains(" + '"' + userFoodType.ToString() + '"' + "," + '"' + userDietAction.ToString() + '"' + ", R, CS, L, I, C, M).";
-            
+
             var solutions = prolog.GetAllSolutions(filename, query);
             string nameRecipe = "";
-            
+
             // Get each solution list
             for (int i = 0; i < solutions.Count; i++)
             {
@@ -71,7 +81,7 @@ namespace NutriAdvice.Modules
                 }
                 else
                 {
-                    if(nameRecipe.Equals(solutions[i][0].Value))
+                    if (nameRecipe.Equals(solutions[i][0].Value))
                     {
                         prescription.AddIngredient(solutions[i][3].Value, solutions[i][4].Value, solutions[i][5].Value);
                     }
@@ -104,7 +114,7 @@ namespace NutriAdvice.Modules
         }
 
         private void DgvDisplayRecipes_CellClick(object sender, EventArgs e)
-        {            
+        {
             Form2 showData = new(RecipeList, dgvDisplayRecipes.CurrentCell.RowIndex);
             showData.GetRecipeIngredientData();
             showData.Show();

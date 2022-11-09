@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
 using System.Windows.Forms;
 
 namespace NutriAdvice.Modules
-{    public partial class UserInputModule : UserControl
+{
+    public partial class UserInputModule : UserControl
     {
         public EventHandler CalculatebtnEvent;
         public int? UserAge
@@ -128,11 +124,11 @@ namespace NutriAdvice.Modules
             else if (bmi > 25.00 && bmi < 29.90)
                 return "You are overweight";
             else if (bmi > 30.00 && bmi < 34.90)
-                return "You are obese"; 
+                return "You are obese";
             else if (bmi > 35.00 && bmi < 40.00)
-                return "You are obese II"; 
+                return "You are obese II";
             else
-                return "You are obese III"; 
+                return "You are obese III";
         }
 
         /*
@@ -146,7 +142,7 @@ namespace NutriAdvice.Modules
             }
             else
             {
-                return ((10 * weight) + (6.25 * height) - (5 * age) -  161);
+                return ((10 * weight) + (6.25 * height) - (5 * age) - 161);
             }
         }
 

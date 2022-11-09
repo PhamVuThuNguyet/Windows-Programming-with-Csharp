@@ -29,7 +29,6 @@ namespace NutriAdvice.Forms
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.DisplayRecipeLink = new System.Windows.Forms.LinkLabel();
             this.dgvDisplayRecipeIngredients = new System.Windows.Forms.DataGridView();
             this.dgvIngredient = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -101,7 +100,6 @@ namespace NutriAdvice.Forms
             this.Controls.Add(this.dgvDisplayRecipeIngredients);
             this.Controls.Add(this.DisplayRecipeLink);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;

@@ -62,7 +62,7 @@ namespace NutriAdvice.Classes
 
         public void AddIngredient(string name, string quantity, string amount)
         {
-            ingredientsList.Add(new Ingredient(name,quantity,amount));
+            ingredientsList.Add(new Ingredient(name, quantity, amount));
         }
 
         public List<Ingredient> GetIngredientList()

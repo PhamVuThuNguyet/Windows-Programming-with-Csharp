@@ -1,6 +1,6 @@
-﻿using System.Windows.Forms;
-using NutriAdvice.Modules;
+﻿using NutriAdvice.Modules;
 using System;
+using System.Windows.Forms;
 
 namespace NutriAdvice
 {
@@ -30,7 +30,7 @@ namespace NutriAdvice
                 return sex;
             };
 
-            UserInputModule.ReturnUserWeight += (weight) => 
+            UserInputModule.ReturnUserWeight += (weight) =>
             {
                 DisplayUserStatusModule.UserWeight = weight;
                 return weight;
@@ -48,7 +48,7 @@ namespace NutriAdvice
                 return bmi;
             };
 
-            UserInputModule.ReturnBMIStatus += (bmistatus) => 
+            UserInputModule.ReturnBMIStatus += (bmistatus) =>
             {
                 DisplayUserStatusModule.UserBMIStatus = bmistatus;
                 return bmistatus;
