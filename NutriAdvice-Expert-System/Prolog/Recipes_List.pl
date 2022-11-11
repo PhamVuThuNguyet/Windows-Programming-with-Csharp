@@ -21,7 +21,7 @@ ingredients("Egg whites",0.5,"pz","Baked oatmeal").
 ingredients("Almond milk",50,"ml","Baked oatmeal").
 ingredients("Grated apple",37.5,"g","Baked oatmeal").
 
-type("Baked oatmeal","Sang","Giam_can").
+type("Baked oatmeal","Sang","Lower").
 
 prescription("Cloud bread",16,"").
 
