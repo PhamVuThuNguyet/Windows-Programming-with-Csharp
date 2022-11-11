@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
+using System.Text;
 using System.Windows.Forms;
 
 namespace NutriAdvice.Modules
@@ -72,8 +73,7 @@ namespace NutriAdvice.Modules
                 if (i == 0)
                 {
                     nameRecipe = solutions[i][0].Value;
-
-                    prescription.SetName(solutions[i][0].Value);
+                    prescription.SetName(nameRecipe);
                     prescription.SetCalories(solutions[i][1].Value);
                     prescription.SetLink(solutions[i][2].Value);
 

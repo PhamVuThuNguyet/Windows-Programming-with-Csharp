@@ -74,21 +74,22 @@ namespace NutriAdvice.Modules
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label6.Location = new System.Drawing.Point(275, 91);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(103, 17);
+            this.label6.Size = new System.Drawing.Size(63, 17);
             this.label6.TabIndex = 12;
-            this.label6.Text = "Kind of meal:";
+            this.label6.Text = "Bữa ăn: ";
             // 
             // SelectTypeCmbbx
             // 
             this.SelectTypeCmbbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.SelectTypeCmbbx.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.SelectTypeCmbbx.FormattingEnabled = true;
             this.SelectTypeCmbbx.Items.AddRange(new object[] {
             "Breakfast",
             "Lunch",
-            "Dinner",
-            "Salad"});
+            "Dinner"});
             this.SelectTypeCmbbx.Location = new System.Drawing.Point(275, 115);
             this.SelectTypeCmbbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.SelectTypeCmbbx.Name = "SelectTypeCmbbx";
@@ -98,13 +99,14 @@ namespace NutriAdvice.Modules
             // SelectActivityCmbbx
             // 
             this.SelectActivityCmbbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.SelectActivityCmbbx.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.SelectActivityCmbbx.FormattingEnabled = true;
             this.SelectActivityCmbbx.Items.AddRange(new object[] {
-            "Sedentary",
-            "Light",
-            "Moderate",
-            "High",
-            "Intense"});
+            "Ít vận động",
+            "Vận động nhẹ",
+            "Vận động vừa",
+            "Vận động nhiều",
+            "Vận động mạnh"});
             this.SelectActivityCmbbx.Location = new System.Drawing.Point(141, 115);
             this.SelectActivityCmbbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.SelectActivityCmbbx.Name = "SelectActivityCmbbx";
@@ -114,28 +116,31 @@ namespace NutriAdvice.Modules
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label5.Location = new System.Drawing.Point(141, 91);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(130, 17);
+            this.label5.Size = new System.Drawing.Size(81, 17);
             this.label5.TabIndex = 9;
-            this.label5.Text = "Physical activity:";
+            this.label5.Text = "Hoạt động:";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label4.Location = new System.Drawing.Point(7, 91);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(40, 17);
+            this.label4.Size = new System.Drawing.Size(73, 17);
             this.label4.TabIndex = 8;
-            this.label4.Text = "Sex:";
+            this.label4.Text = "Giới tính: ";
             // 
             // SelectSexCmbbx
             // 
             this.SelectSexCmbbx.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.SelectSexCmbbx.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.SelectSexCmbbx.FormattingEnabled = true;
             this.SelectSexCmbbx.Items.AddRange(new object[] {
-            "M",
-            "F"});
+            "Nam",
+            "Nữ"});
             this.SelectSexCmbbx.Location = new System.Drawing.Point(7, 115);
             this.SelectSexCmbbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.SelectSexCmbbx.Name = "SelectSexCmbbx";
@@ -146,18 +151,20 @@ namespace NutriAdvice.Modules
             // 
             this.Calculatebtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(170)))), ((int)(((byte)(198)))));
             this.Calculatebtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Calculatebtn.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Calculatebtn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(239)))), ((int)(((byte)(239)))), ((int)(((byte)(239)))));
             this.Calculatebtn.Location = new System.Drawing.Point(304, 165);
             this.Calculatebtn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Calculatebtn.Name = "Calculatebtn";
             this.Calculatebtn.Size = new System.Drawing.Size(86, 31);
             this.Calculatebtn.TabIndex = 6;
-            this.Calculatebtn.Text = "Start";
+            this.Calculatebtn.Text = "Bắt Đầu";
             this.Calculatebtn.UseVisualStyleBackColor = false;
             this.Calculatebtn.Click += new System.EventHandler(this.Calculatebtn_Click);
             // 
             // Heighttxtbx
             // 
+            this.Heighttxtbx.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Heighttxtbx.Location = new System.Drawing.Point(275, 49);
             this.Heighttxtbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Heighttxtbx.Name = "Heighttxtbx";
@@ -167,14 +174,16 @@ namespace NutriAdvice.Modules
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(275, 25);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(96, 17);
+            this.label3.Size = new System.Drawing.Size(115, 17);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Height (cm):";
+            this.label3.Text = "Chiều cao (cm): ";
             // 
             // Weighttxtbx
             // 
+            this.Weighttxtbx.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Weighttxtbx.Location = new System.Drawing.Point(141, 49);
             this.Weighttxtbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Weighttxtbx.Name = "Weighttxtbx";
@@ -184,14 +193,16 @@ namespace NutriAdvice.Modules
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(141, 25);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(63, 17);
+            this.label2.Size = new System.Drawing.Size(74, 17);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Weight:";
+            this.label2.Text = "Cân nặng:";
             // 
             // Agetxtbx
             // 
+            this.Agetxtbx.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Agetxtbx.Location = new System.Drawing.Point(7, 49);
             this.Agetxtbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Agetxtbx.Name = "Agetxtbx";
@@ -201,11 +212,12 @@ namespace NutriAdvice.Modules
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(7, 25);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(42, 17);
+            this.label1.Size = new System.Drawing.Size(46, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Age:";
+            this.label1.Text = "Tuổi: ";
             // 
             // UserInputModule
             // 

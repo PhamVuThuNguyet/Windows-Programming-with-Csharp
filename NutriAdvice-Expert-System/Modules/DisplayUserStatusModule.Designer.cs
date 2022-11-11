@@ -97,9 +97,10 @@ namespace NutriAdvice.Modules
             // DisplayRecipeType
             // 
             this.DisplayRecipeType.AutoSize = true;
-            this.DisplayRecipeType.Location = new System.Drawing.Point(281, 137);
+            this.DisplayRecipeType.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.DisplayRecipeType.Location = new System.Drawing.Point(331, 137);
             this.DisplayRecipeType.Name = "DisplayRecipeType";
-            this.DisplayRecipeType.Size = new System.Drawing.Size(17, 17);
+            this.DisplayRecipeType.Size = new System.Drawing.Size(15, 17);
             this.DisplayRecipeType.TabIndex = 23;
             this.DisplayRecipeType.Text = "1";
             this.DisplayRecipeType.Click += new System.EventHandler(this.DisplayRecipeType_Click);
@@ -107,18 +108,20 @@ namespace NutriAdvice.Modules
             // label11
             // 
             this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label11.Location = new System.Drawing.Point(149, 137);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(46, 17);
+            this.label11.Size = new System.Drawing.Size(63, 17);
             this.label11.TabIndex = 22;
-            this.label11.Text = "Kind:";
+            this.label11.Text = "Bữa ăn: ";
             // 
             // DisplayUserAction
             // 
             this.DisplayUserAction.AutoSize = true;
-            this.DisplayUserAction.Location = new System.Drawing.Point(281, 105);
+            this.DisplayUserAction.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.DisplayUserAction.Location = new System.Drawing.Point(331, 105);
             this.DisplayUserAction.Name = "DisplayUserAction";
-            this.DisplayUserAction.Size = new System.Drawing.Size(17, 17);
+            this.DisplayUserAction.Size = new System.Drawing.Size(15, 17);
             this.DisplayUserAction.TabIndex = 21;
             this.DisplayUserAction.Text = "1";
             this.DisplayUserAction.Click += new System.EventHandler(this.DisplayUserAction_Click);
@@ -126,18 +129,20 @@ namespace NutriAdvice.Modules
             // label10
             // 
             this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label10.Location = new System.Drawing.Point(149, 105);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(60, 17);
+            this.label10.Size = new System.Drawing.Size(100, 17);
             this.label10.TabIndex = 20;
-            this.label10.Text = "Action:";
+            this.label10.Text = "Khuyến nghị: ";
             // 
             // DisplayDietIntake
             // 
             this.DisplayDietIntake.AutoSize = true;
-            this.DisplayDietIntake.Location = new System.Drawing.Point(281, 73);
+            this.DisplayDietIntake.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.DisplayDietIntake.Location = new System.Drawing.Point(331, 73);
             this.DisplayDietIntake.Name = "DisplayDietIntake";
-            this.DisplayDietIntake.Size = new System.Drawing.Size(17, 17);
+            this.DisplayDietIntake.Size = new System.Drawing.Size(15, 17);
             this.DisplayDietIntake.TabIndex = 19;
             this.DisplayDietIntake.Text = "1";
             this.DisplayDietIntake.Click += new System.EventHandler(this.DisplayDietIntake_Click);
@@ -145,18 +150,20 @@ namespace NutriAdvice.Modules
             // label9
             // 
             this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label9.Location = new System.Drawing.Point(149, 73);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(105, 17);
+            this.label9.Size = new System.Drawing.Size(170, 17);
             this.label9.TabIndex = 18;
-            this.label9.Text = "Calories diet:";
+            this.label9.Text = "Lượng calo khuyến nghị:";
             // 
             // DisplayDailyIntake
             // 
             this.DisplayDailyIntake.AutoSize = true;
-            this.DisplayDailyIntake.Location = new System.Drawing.Point(281, 39);
+            this.DisplayDailyIntake.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.DisplayDailyIntake.Location = new System.Drawing.Point(331, 39);
             this.DisplayDailyIntake.Name = "DisplayDailyIntake";
-            this.DisplayDailyIntake.Size = new System.Drawing.Size(17, 17);
+            this.DisplayDailyIntake.Size = new System.Drawing.Size(15, 17);
             this.DisplayDailyIntake.TabIndex = 17;
             this.DisplayDailyIntake.Text = "1";
             this.DisplayDailyIntake.Click += new System.EventHandler(this.DisplayDailyIntake_Click);
@@ -164,18 +171,20 @@ namespace NutriAdvice.Modules
             // label7
             // 
             this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label7.Location = new System.Drawing.Point(149, 39);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(114, 17);
+            this.label7.Size = new System.Drawing.Size(172, 17);
             this.label7.TabIndex = 16;
-            this.label7.Text = "Daily Calories:";
+            this.label7.Text = "Lượng calo bình thường: ";
             // 
             // DisplayBmr
             // 
             this.DisplayBmr.AutoSize = true;
+            this.DisplayBmr.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplayBmr.Location = new System.Drawing.Point(105, 201);
             this.DisplayBmr.Name = "DisplayBmr";
-            this.DisplayBmr.Size = new System.Drawing.Size(17, 17);
+            this.DisplayBmr.Size = new System.Drawing.Size(15, 17);
             this.DisplayBmr.TabIndex = 15;
             this.DisplayBmr.Text = "1";
             // 
@@ -191,63 +200,70 @@ namespace NutriAdvice.Modules
             // DisplaySex
             // 
             this.DisplaySex.AutoSize = true;
+            this.DisplaySex.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplaySex.Location = new System.Drawing.Point(105, 73);
             this.DisplaySex.Name = "DisplaySex";
-            this.DisplaySex.Size = new System.Drawing.Size(17, 17);
+            this.DisplaySex.Size = new System.Drawing.Size(15, 17);
             this.DisplaySex.TabIndex = 13;
             this.DisplaySex.Text = "1";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label6.Location = new System.Drawing.Point(8, 73);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(40, 17);
+            this.label6.Size = new System.Drawing.Size(73, 17);
             this.label6.TabIndex = 12;
-            this.label6.Text = "Sex:";
+            this.label6.Text = "Giới tính: ";
             // 
             // DisplayBMIStatus
             // 
             this.DisplayBMIStatus.AutoSize = true;
+            this.DisplayBMIStatus.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplayBMIStatus.Location = new System.Drawing.Point(105, 235);
             this.DisplayBMIStatus.Name = "DisplayBMIStatus";
-            this.DisplayBMIStatus.Size = new System.Drawing.Size(17, 17);
+            this.DisplayBMIStatus.Size = new System.Drawing.Size(15, 17);
             this.DisplayBMIStatus.TabIndex = 11;
             this.DisplayBMIStatus.Text = "1";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label5.Location = new System.Drawing.Point(8, 235);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(82, 17);
+            this.label5.Size = new System.Drawing.Size(70, 17);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Condition:";
+            this.label5.Text = "Đánh giá:";
             // 
             // DisplayAge2
             // 
             this.DisplayAge2.AutoSize = true;
+            this.DisplayAge2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplayAge2.Location = new System.Drawing.Point(105, 39);
             this.DisplayAge2.Name = "DisplayAge2";
-            this.DisplayAge2.Size = new System.Drawing.Size(17, 17);
+            this.DisplayAge2.Size = new System.Drawing.Size(15, 17);
             this.DisplayAge2.TabIndex = 9;
             this.DisplayAge2.Text = "1";
             // 
             // DisplayWeight2
             // 
             this.DisplayWeight2.AutoSize = true;
+            this.DisplayWeight2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplayWeight2.Location = new System.Drawing.Point(105, 105);
             this.DisplayWeight2.Name = "DisplayWeight2";
-            this.DisplayWeight2.Size = new System.Drawing.Size(17, 17);
+            this.DisplayWeight2.Size = new System.Drawing.Size(15, 17);
             this.DisplayWeight2.TabIndex = 8;
             this.DisplayWeight2.Text = "1";
             // 
             // DisplayBmi
             // 
             this.DisplayBmi.AutoSize = true;
+            this.DisplayBmi.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplayBmi.Location = new System.Drawing.Point(105, 169);
             this.DisplayBmi.Name = "DisplayBmi";
-            this.DisplayBmi.Size = new System.Drawing.Size(17, 17);
+            this.DisplayBmi.Size = new System.Drawing.Size(15, 17);
             this.DisplayBmi.TabIndex = 7;
             this.DisplayBmi.Text = "1";
             // 
@@ -263,20 +279,22 @@ namespace NutriAdvice.Modules
             // DisplayHeight
             // 
             this.DisplayHeight.AutoSize = true;
+            this.DisplayHeight.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplayHeight.Location = new System.Drawing.Point(105, 137);
             this.DisplayHeight.Name = "DisplayHeight";
-            this.DisplayHeight.Size = new System.Drawing.Size(17, 17);
+            this.DisplayHeight.Size = new System.Drawing.Size(15, 17);
             this.DisplayHeight.TabIndex = 5;
             this.DisplayHeight.Text = "1";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(8, 137);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 17);
+            this.label3.Size = new System.Drawing.Size(82, 17);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Height:";
+            this.label3.Text = "Chiều cao: ";
             // 
             // DisplayWeight
             // 
@@ -289,11 +307,12 @@ namespace NutriAdvice.Modules
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(8, 105);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(63, 17);
+            this.label2.Size = new System.Drawing.Size(78, 17);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Weight:";
+            this.label2.Text = "Cân nặng: ";
             // 
             // DisplayAge
             // 
@@ -306,11 +325,12 @@ namespace NutriAdvice.Modules
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(7, 39);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(42, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Age:";
+            this.label1.Text = "Tuổi:";
             // 
             // DisplayUserStatusModule
             // 

@@ -9,6 +9,8 @@ D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice
 D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Form1.resources
 D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Forms.Form2.resources
 D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.ConsultPrologAndDisplayResultModule.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.DisplayUserStatusModule.resources
+D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.Modules.UserInputModule.resources
 D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.csproj.GenerateResource.cache
 D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.GeneratedMSBuildEditorConfig.editorconfig
 D:\Csharp Project\NutriAdvice-Expert-System\obj\Debug\net5.0-windows\NutriAdvice.AssemblyInfoInputs.cache

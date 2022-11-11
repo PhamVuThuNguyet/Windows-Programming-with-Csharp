@@ -117,18 +117,22 @@ namespace NutriAdvice.Modules
 
         static string BMIStatus(double bmi)
         {
-            if (bmi < 18.50)
-                return "You are below your ideal BMI";
-            else if (bmi > 18.50 && bmi < 24.90)
-                return "You are in an ideal BMI";
-            else if (bmi > 25.00 && bmi < 29.90)
-                return "You are overweight";
-            else if (bmi > 30.00 && bmi < 34.90)
-                return "You are obese";
-            else if (bmi > 35.00 && bmi < 40.00)
-                return "You are obese II";
+            if (bmi < 16)
+                return "Suy dinh dưỡng độ 3";
+            else if (bmi >= 16 && bmi < 17)
+                return "Suy dinh dưỡng độ 2";
+            else if (bmi >= 17 && bmi < 18.5)
+                return "Suy dinh dưỡng độ 1";
+            else if (bmi >= 18.5 && bmi < 25)
+                return "Bình thường";
+            else if (bmi >= 25 && bmi < 30)
+                return "Thừa cân";
+            else if (bmi >= 30 && bmi < 35)
+                return "Béo phì độ 1";
+            else if (bmi >= 35 && bmi < 40)
+                return "Béo phì độ 2";
             else
-                return "You are obese III";
+                return "Béo phì độ 3";
         }
 
         /*
@@ -136,7 +140,7 @@ namespace NutriAdvice.Modules
          */
         static double BMR(double weight, double height, int age, string sex)
         {
-            if (sex == "M")
+            if (sex == "Nam")
             {
                 return ((10 * weight) + (6.25 * height) - (5 * age) + 5);
             }
@@ -148,13 +152,13 @@ namespace NutriAdvice.Modules
 
         static double DailyCalories(string activity, double bmr)
         {
-            if (activity == "Sedentary")
+            if (activity == "Ít vận động")
                 return (bmr * 1.2);
-            else if (activity == "Ligero")
+            else if (activity == "Vận động nhẹ")
                 return (bmr * 1.375);
-            else if (activity == "Light")
+            else if (activity == "Vận động vừa")
                 return (bmr * 1.55);
-            else if (activity == "High")
+            else if (activity == "Vận động nhiều")
                 return (bmr * 1.725);
             else
                 return (bmr * 1.9);
@@ -163,19 +167,19 @@ namespace NutriAdvice.Modules
         double DietCalories(string bmistatus, double dailyintake)
         {
             double overweightdiet = (dailyintake - 500);
-            if (bmistatus.Contains("You are below your ideal BMI"))
+            if (bmistatus.Contains("Suy dinh dưỡng"))
             {
                 UserDietAction = "Rise";
                 return (dailyintake + 500);
             }
-            else if (bmistatus.Contains("You are in an ideal BMI"))
+            else if (bmistatus.Contains("Bình thường"))
             {
                 UserDietAction = "Keep";
                 return dailyintake;
             }
             else
             {
-                UserDietAction = "Low";
+                UserDietAction = "Lower";
                 if (overweightdiet < 1200) return 1300; else return overweightdiet;
             }
         }

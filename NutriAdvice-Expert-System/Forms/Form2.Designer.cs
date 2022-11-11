@@ -31,9 +31,9 @@ namespace NutriAdvice.Forms
         {
             this.DisplayRecipeLink = new System.Windows.Forms.LinkLabel();
             this.dgvDisplayRecipeIngredients = new System.Windows.Forms.DataGridView();
-            this.dgvIngredient = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dgvQuantity = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dgvCalories = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.I = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.M = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.C = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDisplayRecipeIngredients)).BeginInit();
             this.SuspendLayout();
             // 
@@ -57,9 +57,9 @@ namespace NutriAdvice.Forms
             this.dgvDisplayRecipeIngredients.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvDisplayRecipeIngredients.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDisplayRecipeIngredients.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dgvIngredient,
-            this.dgvQuantity,
-            this.dgvCalories});
+            this.I,
+            this.M,
+            this.C});
             this.dgvDisplayRecipeIngredients.Location = new System.Drawing.Point(13, 55);
             this.dgvDisplayRecipeIngredients.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dgvDisplayRecipeIngredients.Name = "dgvDisplayRecipeIngredients";
@@ -70,26 +70,26 @@ namespace NutriAdvice.Forms
             this.dgvDisplayRecipeIngredients.Size = new System.Drawing.Size(527, 277);
             this.dgvDisplayRecipeIngredients.TabIndex = 5;
             // 
-            // dgvIngredient
+            // I
             // 
-            this.dgvIngredient.HeaderText = "Ingredient";
-            this.dgvIngredient.MinimumWidth = 6;
-            this.dgvIngredient.Name = "dgvIngredient";
-            this.dgvIngredient.ReadOnly = true;
+            this.I.HeaderText = "Ingredient";
+            this.I.MinimumWidth = 6;
+            this.I.Name = "I";
+            this.I.ReadOnly = true;
             // 
-            // dgvQuantity
+            // M
             // 
-            this.dgvQuantity.HeaderText = "Measure";
-            this.dgvQuantity.MinimumWidth = 6;
-            this.dgvQuantity.Name = "dgvQuantity";
-            this.dgvQuantity.ReadOnly = true;
+            this.M.HeaderText = "Measure";
+            this.M.MinimumWidth = 6;
+            this.M.Name = "M";
+            this.M.ReadOnly = true;
             // 
-            // dgvCalories
+            // C
             // 
-            this.dgvCalories.HeaderText = "Amount";
-            this.dgvCalories.MinimumWidth = 6;
-            this.dgvCalories.Name = "dgvCalories";
-            this.dgvCalories.ReadOnly = true;
+            this.C.HeaderText = "Amount";
+            this.C.MinimumWidth = 6;
+            this.C.Name = "C";
+            this.C.ReadOnly = true;
             // 
             // Form2
             // 
@@ -114,8 +114,8 @@ namespace NutriAdvice.Forms
         #endregion
         private System.Windows.Forms.LinkLabel DisplayRecipeLink;
         private System.Windows.Forms.DataGridView dgvDisplayRecipeIngredients;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dgvIngredient;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dgvQuantity;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dgvCalories;
+        private System.Windows.Forms.DataGridViewTextBoxColumn I;
+        private System.Windows.Forms.DataGridViewTextBoxColumn M;
+        private System.Windows.Forms.DataGridViewTextBoxColumn C;
     }
 }
