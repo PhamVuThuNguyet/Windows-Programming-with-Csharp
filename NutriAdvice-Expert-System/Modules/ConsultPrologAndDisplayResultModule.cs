@@ -65,6 +65,7 @@ namespace NutriAdvice.Modules
             string query = @"contains(" + '"' + userFoodType.ToString() + '"' + "," + '"' + userDietAction.ToString() + '"' + ", R, CS, L, I, C, M).";
 
             var solutions = prolog.GetAllSolutions(filename, query);
+            MessageBox.Show(query);
             string nameRecipe = "";
 
             // Get each solution list
