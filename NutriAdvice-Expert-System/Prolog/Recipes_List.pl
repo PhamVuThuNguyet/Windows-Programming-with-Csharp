@@ -21,7 +21,7 @@ ingredients("Egg whites",0.5,"pz","Baked oatmeal").
 ingredients("Almond milk",50,"ml","Baked oatmeal").
 ingredients("Grated apple",37.5,"g","Baked oatmeal").
 
-type("Baked oatmeal","Sang","Lower").
+type("Baked oatmeal","Sang","Giam can").
 
 prescription("Cloud bread",16,"").
 
@@ -30,7 +30,7 @@ ingredients("Double cream cheese",16.67,"g","Cloud bread").
 ingredients("Baking Protein",0.17,"tbsp.","Cloud bread").
 ingredients("Salt",0.17,"pinch","Cloud bread").
 
-type("Cloud bread","Sang","Lower").
+type("Cloud bread","Sang","Giam can").
 
 prescription("Benedict eggs",314,"").
 
@@ -45,7 +45,7 @@ ingredients("Bread",1,"slice","Benedict eggs").
 ingredients("Salt",1,"pinch","Benedict eggs").
 ingredients("Pepper",1,"pinch","Benedict eggs").
 
-type("Benedict eggs","Sang","Lower").
+type("Benedict eggs","Sang","Giam can").
 
 prescription("Savory pancakes with fried egg",150,"").
 
@@ -56,7 +56,7 @@ ingredients("Egg",1,"pz","Savory pancakes with fried egg").
 ingredients("Chicken breast",1,"slice","Savory pancakes with fried egg").
 ingredients("Salt",1,"pinch","Savory pancakes with fried egg").
 
-type("Savory pancakes with fried egg","Sang","Lower").
+type("Savory pancakes with fried egg","Sang","Giam can").
 
 prescription("Salmon and fresh cheese rolls",564,"").
 
@@ -68,7 +68,7 @@ ingredients("Rucola",1,"bunch","Salmon and fresh cheese rolls").
 ingredients("Salt",1,"pinch","Salmon and fresh cheese rolls").
 ingredients("Pepper",2,"pinch","Salmon and fresh cheese rolls").
 
-type("Salmon and fresh cheese rolls","Sang","Keep").
+type("Salmon and fresh cheese rolls","Sang","Giu can").
 
 prescription("Bread with olives and dried tomato",1044,"").
 
@@ -78,7 +78,7 @@ ingredients("Aceitunas",100,"g","Bread with olives and dried tomato").
 ingredients("Tomates deshidratados",40,"g","Bread with olives and dried tomato").
 ingredients("Oregano seco",1,"cdta.","Bread with olives and dried tomato").
 
-type("Bread with olives and dried tomato","Sang","Keep").
+type("Bread with olives and dried tomato","Sang","Giu can").
 
 prescription("Bread with figs and nuts",1068,"").
 
@@ -87,7 +87,7 @@ ingredients("Agua",230,"ml","Bread with figs and nuts").
 ingredients("Higos deshidratados",80,"g","Bread with figs and nuts").
 ingredients("Nueces",40,"g","Bread with figs and nuts").
 
-type("Bread with figs and nuts","Sang","Keep").
+type("Bread with figs and nuts","Sang","Giu can").
 
 prescription("Apple pancake",513,"").
 
@@ -96,7 +96,7 @@ ingredients("Egg",2,"pz","Apple pancake").
 ingredients("Apricot jam",60,"g","Apple pancake").
 ingredients("Vegetable oil",1,"little","Apple pancake").
 
-type("Apple pancake","Sang","Keep").
+type("Apple pancake","Sang","Giu can").
 
 prescription("Cream filled pancakes",150,"").
 
@@ -105,7 +105,7 @@ ingredients("Water",65,"ml","Cream filled pancakes").
 ingredients("Cream",20,"g","Cream filled pancakes").
 ingredients("Coconut oil",5,"g","Cream filled pancakes").
 
-type("Cream filled pancakes","Sang","Rise").
+type("Cream filled pancakes","Sang","Tang can").
 
 prescription("Pancakes with kimchi",510,"").
 
@@ -113,7 +113,7 @@ ingredients("Pancakes",80,"g","Pancakes with kimchi").
 ingredients("Cold water",180,"ml","Pancakes with kimchi").
 ingredients("Vegetarian kimchi",150,"g","Pancakes with kimchi").
 ingredients("Coconut oil",15,"g","Pancakes with kimchi").
-type("Pancakes with kimchi","Sang","Rise").
+type("Pancakes with kimchi","Sang","Tang can").
 
 % Lunches
 
@@ -127,7 +127,7 @@ ingredients("Cream of oatmeal",50,"ml","Vegan pasta with red radicchio and walnu
 ingredients("Nuts",5,"g","Vegan pasta with red radicchio and walnuts").
 ingredients("Sal",1,"pinch","Vegan pasta with red radicchio and walnuts").
 ingredients("Pepper",1,"pinch","Vegan pasta with red radicchio and walnuts").
-type("Vegan pasta with red radicchio and walnuts","Trua","Lower").
+type("Vegan pasta with red radicchio and walnuts","Trua","Giam can").
 
 prescription("Beet burgers",19.5,"").
 
@@ -142,7 +142,7 @@ ingredients("Pepper",0.08,"tablespoon","Beet burgers").
 ingredients("Cumin",0.17,"tablespoon","Beet burgers").
 ingredients("Parsley",0.08,"bunch","Beet burgers").
 
-type("Beet burgers","Trua","Lower").
+type("Beet burgers","Trua","Giam can").
 
 prescription("Pasta with light cream cheese",255.5,"").
 
@@ -154,7 +154,7 @@ ingredients("Vegetable broth",50,"ml","Pasta with light cream cheese").
 ingredients("Milk",40,"ml","Pasta with light cream cheese").
 ingredients("Parmesan cheese",15,"g","Pasta with light cream cheese").
 
-type("Pasta with light cream cheese","Trua","Lower").
+type("Pasta with light cream cheese","Trua","Giam can").
 
 prescription("Green gazpacho",123.5,"").
 
@@ -170,7 +170,7 @@ ingredients("Vinegar",0.5,"tsp.","Green gazpacho").
 ingredients("Olive oil",0.5,"tbsp.","Green gazpacho").
 ingredients("Salt",1,"pinch","Green gazpacho").
 
-types("Green gazpacho","Trua","Lower").
+types("Green gazpacho","Trua","Giam can").
 
 prescription("Kale Pesto Pasta",252,"").
 
@@ -185,7 +185,7 @@ ingredients("Water",10,"ml","Kale Pesto Pasta").
 ingredients("Sal",1,"pz","Kale Pesto Pasta").
 ingredients("Pepper",1,"pz","Kale Pesto Pasta").
 
-type("Kale Pesto Pasta","Trua","Keep").
+type("Kale Pesto Pasta","Trua","Giu can").
 
 prescription("Light beet paste",259,"").
 
@@ -200,7 +200,7 @@ ingredients("Feta cheese",20,"g","Light beet paste").
 ingredients("Sal",1,"pinch","Light beet paste").
 ingredients("Pepper",1,"pinch","Light beet paste").
 
-type("Light beet paste","Trua","Keep").
+type("Light beet paste","Trua","Giu can").
 
 prescription("Gazpacho fitness",122.5,"").
 
@@ -215,7 +215,7 @@ ingredients("Vinegar",0.5,"tsp.","Gazpacho fitness").
 ingredients("Olive oil",0.5,"tbsp.","Gazpacho fitness").
 ingredients("Salt",1,"pinch","Gazpacho fitness").
 
-type("Gazpacho fitness","Trua","Keep").
+type("Gazpacho fitness","Trua","Giu can").
 
 prescription("Pasta with basil pesto",387.5,"").
 
@@ -230,7 +230,7 @@ ingredients("Pepper",1,"pinch","Pasta with basil pesto").
 ingredients("Parmesan",1,"pinch","Pasta with basil pesto").
 ingredients("Pasta",100,"g","Pasta with basil pesto").
 
-type("Pasta with basil pesto","Trua","Rise").
+type("Pasta with basil pesto","Trua","Tang can").
 
 prescription("Vegan carbonara pasta",604,"").
 
@@ -241,7 +241,7 @@ ingredients("Vegetable cream",100,"ml","Vegan carbonara pasta").
 ingredients("Yeast flakes",1,"tbsp.","Vegan carbonara pasta").
 ingredients("Salt",1,"pinch","Vegan carbonara pasta").
 
-type("Vegan carbonara pasta","Trua","Rise").
+type("Vegan carbonara pasta","Trua","Tang can").
 
 prescription("Arancini",78,"").
 
@@ -257,13 +257,13 @@ ingredients("Salt",1,"pinch","Arancini").
 ingredients("Pepper",1,"pinch","Arancini").
 ingredients("Olive oil",1,"little","Arancini").
 
-type("Arancini","Trua","Rise").
+type("Arancini","Trua","Tang can").
 
 % Dinners
 
-type("Kale Pesto Pasta","Toi","Rise").
-type("Cloud bread","Toi","Lower").
-type("Salmon and fresh cheese rolls","Toi","Lower").
+type("Kale Pesto Pasta","Toi","Tang can").
+type("Cloud bread","Toi","Giam can").
+type("Salmon and fresh cheese rolls","Toi","Giam can").
 
 prescription("Blini with salmon",4.58,"").
 
@@ -275,7 +275,7 @@ ingredients("Quark cheese",10,"g","Blini with salmon").
 ingredients("Salt",1,"Pinch","Blini with salmon").
 ingredients("Pepper",1,"Pinch","Blini with salmon").
 
-type("Blini with salmon","Toi","Rise").
+type("Blini with salmon","Toi","Tang can").
 
 prescription("Vegan cauliflower wings",64.5,"").
 
@@ -290,7 +290,7 @@ ingredients("Pepper",1,"Pinch","Vegan cauliflower wings").
 ingredients("Protein flakes",25,"g","Vegan cauliflower wings").
 ingredients("Barbecue sauce",45,"ml","Vegan cauliflower wings").
 
-type("Vegan cauliflower wings","Toi","Rise").
+type("Vegan cauliflower wings","Toi","Tang can").
 
 prescription("Arugula and parma pizza",682,"").
 
@@ -303,7 +303,7 @@ ingredients("Mozzarella",4,"Slices","Arugula and parma pizza").
 ingredients("Parma ham",1,"Bunch","Arugula and parma pizza").
 ingredients("Arugula (optional)",1,"Bunch","Arugula and parma pizza").
 
-type("Arugula and parma pizza","Toi","Rise").
+type("Arugula and parma pizza","Toi","Tang can").
 
 prescription("Pasta salad",568,"").
 
@@ -315,7 +315,7 @@ ingredients("Olive oil",10,"ml","Pasta salad").
 ingredients("Salt",1,"Pinch","Pasta salad").
 ingredients("Pepper",1,"Pinch","Pasta salad").
 
-type("Pasta salad","Toi","Keep").
+type("Pasta salad","Toi","Giu can").
 
 prescription("Egg white bread",107,"").
 
@@ -330,7 +330,7 @@ ingredients("Egg whites",6,"Pzas","Egg white bread").
 ingredients("Pumpkin seeds",20,"g","Egg white bread").
 ingredients("Flax (or sunflower) seeds",20,"g","Egg white bread").
 
-type("Egg white bread","Toi","Lower").
+type("Egg white bread","Toi","Giam can").
 
 prescription("Breaded Cauliflower Steaks",363,"").
 
@@ -342,7 +342,7 @@ ingredients("Paprika",1,"Tbsp","Breaded Cauliflower Steaks").
 ingredients("Curry powder",0.5,"Tbsp","Breaded Cauliflower Steaks").
 ingredients("Garlic powder",2,"Tbsp","Breaded Cauliflower Steaks").
 
-type("Breaded Cauliflower Steaks","Toi","Keep").
+type("Breaded Cauliflower Steaks","Toi","Giu can").
 
 
 %Rules

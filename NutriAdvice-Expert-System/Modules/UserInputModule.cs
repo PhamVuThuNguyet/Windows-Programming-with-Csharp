@@ -169,17 +169,17 @@ namespace NutriAdvice.Modules
             double overweightdiet = (dailyintake - 500);
             if (bmistatus.Contains("Suy dinh dưỡng"))
             {
-                UserDietAction = "Rise";
+                UserDietAction = "Tang can";
                 return (dailyintake + 500);
             }
             else if (bmistatus.Contains("Bình thường"))
             {
-                UserDietAction = "Keep";
+                UserDietAction = "Giu can";
                 return dailyintake;
             }
             else
             {
-                UserDietAction = "Lower";
+                UserDietAction = "Giam can";
                 if (overweightdiet < 1200) return 1300; else return overweightdiet;
             }
         }
