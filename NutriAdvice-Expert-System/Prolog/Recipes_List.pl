@@ -21,7 +21,7 @@ ingredients("Egg whites",0.5,"pz","Baked oatmeal").
 ingredients("Almond milk",50,"ml","Baked oatmeal").
 ingredients("Grated apple",37.5,"g","Baked oatmeal").
 
-type("Baked oatmeal","Breakfast","Lower").
+type("Baked oatmeal","Sang","Lower").
 
 prescription("Cloud bread",16,"").
 
@@ -30,7 +30,7 @@ ingredients("Double cream cheese",16.67,"g","Cloud bread").
 ingredients("Baking Protein",0.17,"tbsp.","Cloud bread").
 ingredients("Salt",0.17,"pinch","Cloud bread").
 
-type("Cloud bread","Breakfast","Lower").
+type("Cloud bread","Sang","Lower").
 
 prescription("Benedict eggs",314,"").
 
@@ -45,7 +45,7 @@ ingredients("Bread",1,"slice","Benedict eggs").
 ingredients("Salt",1,"pinch","Benedict eggs").
 ingredients("Pepper",1,"pinch","Benedict eggs").
 
-type("Benedict eggs","Breakfast","Lower").
+type("Benedict eggs","Sang","Lower").
 
 prescription("Savory pancakes with fried egg",150,"").
 
@@ -56,7 +56,7 @@ ingredients("Egg",1,"pz","Savory pancakes with fried egg").
 ingredients("Chicken breast",1,"slice","Savory pancakes with fried egg").
 ingredients("Salt",1,"pinch","Savory pancakes with fried egg").
 
-type("Savory pancakes with fried egg","Breakfast","Lower").
+type("Savory pancakes with fried egg","Sang","Lower").
 
 prescription("Salmon and fresh cheese rolls",564,"").
 
@@ -68,7 +68,7 @@ ingredients("Rucola",1,"bunch","Salmon and fresh cheese rolls").
 ingredients("Salt",1,"pinch","Salmon and fresh cheese rolls").
 ingredients("Pepper",2,"pinch","Salmon and fresh cheese rolls").
 
-type("Salmon and fresh cheese rolls","Breakfast","Keep").
+type("Salmon and fresh cheese rolls","Sang","Keep").
 
 prescription("Bread with olives and dried tomato",1044,"").
 
@@ -78,7 +78,7 @@ ingredients("Aceitunas",100,"g","Bread with olives and dried tomato").
 ingredients("Tomates deshidratados",40,"g","Bread with olives and dried tomato").
 ingredients("Oregano seco",1,"cdta.","Bread with olives and dried tomato").
 
-type("Bread with olives and dried tomato","Breakfast","Keep").
+type("Bread with olives and dried tomato","Sang","Keep").
 
 prescription("Bread with figs and nuts",1068,"").
 
@@ -87,7 +87,7 @@ ingredients("Agua",230,"ml","Bread with figs and nuts").
 ingredients("Higos deshidratados",80,"g","Bread with figs and nuts").
 ingredients("Nueces",40,"g","Bread with figs and nuts").
 
-type("Bread with figs and nuts","Breakfast","Keep").
+type("Bread with figs and nuts","Sang","Keep").
 
 prescription("Apple pancake",513,"").
 
@@ -96,7 +96,7 @@ ingredients("Egg",2,"pz","Apple pancake").
 ingredients("Apricot jam",60,"g","Apple pancake").
 ingredients("Vegetable oil",1,"little","Apple pancake").
 
-type("Apple pancake","Breakfast","Keep").
+type("Apple pancake","Sang","Keep").
 
 prescription("Cream filled pancakes",150,"").
 
@@ -105,7 +105,7 @@ ingredients("Water",65,"ml","Cream filled pancakes").
 ingredients("Cream",20,"g","Cream filled pancakes").
 ingredients("Coconut oil",5,"g","Cream filled pancakes").
 
-type("Cream filled pancakes","Breakfast","Rise").
+type("Cream filled pancakes","Sang","Rise").
 
 prescription("Pancakes with kimchi",510,"").
 
@@ -113,7 +113,7 @@ ingredients("Pancakes",80,"g","Pancakes with kimchi").
 ingredients("Cold water",180,"ml","Pancakes with kimchi").
 ingredients("Vegetarian kimchi",150,"g","Pancakes with kimchi").
 ingredients("Coconut oil",15,"g","Pancakes with kimchi").
-type("Pancakes with kimchi","Breakfast","Rise").
+type("Pancakes with kimchi","Sang","Rise").
 
 % Lunches
 
@@ -127,7 +127,7 @@ ingredients("Cream of oatmeal",50,"ml","Vegan pasta with red radicchio and walnu
 ingredients("Nuts",5,"g","Vegan pasta with red radicchio and walnuts").
 ingredients("Sal",1,"pinch","Vegan pasta with red radicchio and walnuts").
 ingredients("Pepper",1,"pinch","Vegan pasta with red radicchio and walnuts").
-type("Vegan pasta with red radicchio and walnuts","Lunch","Lower").
+type("Vegan pasta with red radicchio and walnuts","Trua","Lower").
 
 prescription("Beet burgers",19.5,"").
 
@@ -142,7 +142,7 @@ ingredients("Pepper",0.08,"tablespoon","Beet burgers").
 ingredients("Cumin",0.17,"tablespoon","Beet burgers").
 ingredients("Parsley",0.08,"bunch","Beet burgers").
 
-type("Beet burgers","Lunch","Lower").
+type("Beet burgers","Trua","Lower").
 
 prescription("Pasta with light cream cheese",255.5,"").
 
@@ -154,7 +154,7 @@ ingredients("Vegetable broth",50,"ml","Pasta with light cream cheese").
 ingredients("Milk",40,"ml","Pasta with light cream cheese").
 ingredients("Parmesan cheese",15,"g","Pasta with light cream cheese").
 
-type("Pasta with light cream cheese","Lunch","Lower").
+type("Pasta with light cream cheese","Trua","Lower").
 
 prescription("Green gazpacho",123.5,"").
 
@@ -170,7 +170,7 @@ ingredients("Vinegar",0.5,"tsp.","Green gazpacho").
 ingredients("Olive oil",0.5,"tbsp.","Green gazpacho").
 ingredients("Salt",1,"pinch","Green gazpacho").
 
-types("Green gazpacho","Lunch","Lower").
+types("Green gazpacho","Trua","Lower").
 
 prescription("Kale Pesto Pasta",252,"").
 
@@ -185,7 +185,7 @@ ingredients("Water",10,"ml","Kale Pesto Pasta").
 ingredients("Sal",1,"pz","Kale Pesto Pasta").
 ingredients("Pepper",1,"pz","Kale Pesto Pasta").
 
-type("Kale Pesto Pasta","Lunch","Keep").
+type("Kale Pesto Pasta","Trua","Keep").
 
 prescription("Light beet paste",259,"").
 
@@ -200,7 +200,7 @@ ingredients("Feta cheese",20,"g","Light beet paste").
 ingredients("Sal",1,"pinch","Light beet paste").
 ingredients("Pepper",1,"pinch","Light beet paste").
 
-type("Light beet paste","Lunch","Keep").
+type("Light beet paste","Trua","Keep").
 
 prescription("Gazpacho fitness",122.5,"").
 
@@ -215,7 +215,7 @@ ingredients("Vinegar",0.5,"tsp.","Gazpacho fitness").
 ingredients("Olive oil",0.5,"tbsp.","Gazpacho fitness").
 ingredients("Salt",1,"pinch","Gazpacho fitness").
 
-type("Gazpacho fitness","Lunch","Keep").
+type("Gazpacho fitness","Trua","Keep").
 
 prescription("Pasta with basil pesto",387.5,"").
 
@@ -230,7 +230,7 @@ ingredients("Pepper",1,"pinch","Pasta with basil pesto").
 ingredients("Parmesan",1,"pinch","Pasta with basil pesto").
 ingredients("Pasta",100,"g","Pasta with basil pesto").
 
-type("Pasta with basil pesto","Lunch","Rise").
+type("Pasta with basil pesto","Trua","Rise").
 
 prescription("Vegan carbonara pasta",604,"").
 
@@ -241,7 +241,7 @@ ingredients("Vegetable cream",100,"ml","Vegan carbonara pasta").
 ingredients("Yeast flakes",1,"tbsp.","Vegan carbonara pasta").
 ingredients("Salt",1,"pinch","Vegan carbonara pasta").
 
-type("Vegan carbonara pasta","Lunch","Rise").
+type("Vegan carbonara pasta","Trua","Rise").
 
 prescription("Arancini",78,"").
 
@@ -257,13 +257,13 @@ ingredients("Salt",1,"pinch","Arancini").
 ingredients("Pepper",1,"pinch","Arancini").
 ingredients("Olive oil",1,"little","Arancini").
 
-type("Arancini","Lunch","Rise").
+type("Arancini","Trua","Rise").
 
 % Dinners
 
-type("Kale Pesto Pasta","Dinner","Rise").
-type("Cloud bread","Dinner","Lower").
-type("Salmon and fresh cheese rolls","Dinner","Lower").
+type("Kale Pesto Pasta","Toi","Rise").
+type("Cloud bread","Toi","Lower").
+type("Salmon and fresh cheese rolls","Toi","Lower").
 
 prescription("Blini with salmon",4.58,"").
 
@@ -275,7 +275,7 @@ ingredients("Quark cheese",10,"g","Blini with salmon").
 ingredients("Salt",1,"Pinch","Blini with salmon").
 ingredients("Pepper",1,"Pinch","Blini with salmon").
 
-type("Blini with salmon","Dinner","Rise").
+type("Blini with salmon","Toi","Rise").
 
 prescription("Vegan cauliflower wings",64.5,"").
 
@@ -290,7 +290,7 @@ ingredients("Pepper",1,"Pinch","Vegan cauliflower wings").
 ingredients("Protein flakes",25,"g","Vegan cauliflower wings").
 ingredients("Barbecue sauce",45,"ml","Vegan cauliflower wings").
 
-type("Vegan cauliflower wings","Dinner","Rise").
+type("Vegan cauliflower wings","Toi","Rise").
 
 prescription("Arugula and parma pizza",682,"").
 
@@ -303,7 +303,7 @@ ingredients("Mozzarella",4,"Slices","Arugula and parma pizza").
 ingredients("Parma ham",1,"Bunch","Arugula and parma pizza").
 ingredients("Arugula (optional)",1,"Bunch","Arugula and parma pizza").
 
-type("Arugula and parma pizza","Dinner","Rise").
+type("Arugula and parma pizza","Toi","Rise").
 
 prescription("Pasta salad",568,"").
 
@@ -315,7 +315,7 @@ ingredients("Olive oil",10,"ml","Pasta salad").
 ingredients("Salt",1,"Pinch","Pasta salad").
 ingredients("Pepper",1,"Pinch","Pasta salad").
 
-type("Pasta salad","Dinner","Keep").
+type("Pasta salad","Toi","Keep").
 
 prescription("Egg white bread",107,"").
 
@@ -330,7 +330,7 @@ ingredients("Egg whites",6,"Pzas","Egg white bread").
 ingredients("Pumpkin seeds",20,"g","Egg white bread").
 ingredients("Flax (or sunflower) seeds",20,"g","Egg white bread").
 
-type("Egg white bread","Dinner","Lower").
+type("Egg white bread","Toi","Lower").
 
 prescription("Breaded Cauliflower Steaks",363,"").
 
@@ -342,154 +342,7 @@ ingredients("Paprika",1,"Tbsp","Breaded Cauliflower Steaks").
 ingredients("Curry powder",0.5,"Tbsp","Breaded Cauliflower Steaks").
 ingredients("Garlic powder",2,"Tbsp","Breaded Cauliflower Steaks").
 
-type("Breaded Cauliflower Steaks","Dinner","Keep").
-
-% Salads
-
-prescription("Asian salad with cauliflower and fennel",97.67,"").
-
-ingredients("Medium cauliflower",0.33,"g","Asian salad with cauliflower and fennel").
-ingredients("fennel in small bulb",0.33,"g","Asian salad with cauliflower and fennel").
-ingredients("Coconut oil",0.33,"cda","Asian salad with cauliflower and fennel").
-ingredients("Lime",0.33,"ml","Asian salad with cauliflower and fennel").
-ingredients("Fresh ginger",0.33,"Chunk","Asian salad with cauliflower and fennel").
-ingredients("Soy sauce",1,"Tbsp","Asian salad with cauliflower and fennel").
-ingredients("Rice vinegar",0.67,"Cdas","Asian salad with cauliflower and fennel").
-ingredients("Agave syrup",0.33,"Cdas","Asian salad with cauliflower and fennel").
-ingredients("Sesame oil",0.33,"Tbsp","Asian salad with cauliflower and fennel").
-ingredients("Lombard",23.33,"g","Asian salad with cauliflower and fennel").
-ingredients("Chives",0.67,"g","Asian salad with cauliflower and fennel").
-ingredients("Cashews",10,"g","Asian salad with cauliflower and fennel").
-ingredients("Coconut chips",6.67,"g","Asian salad with cauliflower and fennel").
-ingredients("Sal",1,"Pinch","Asian salad with cauliflower and fennel").
-ingredients("Pepper",1,"Pinch","Chilli","Asian salad with cauliflower and fennel").
-
-type("Asian salad with cauliflower and fennel","Salad","Lower").
-
-prescription("Salad with chicken breast or tofu",81,"").
-
-ingredients("Lettuce (to taste)",1,"Pza","Salad with chicken breast or tofu").
-ingredients("Chicken breast",200,"g","Salad with chicken breast or tofu").
-ingredients("Smoked Tofu",125,"g","Salad with chicken breast or tofu").
-ingredients("Raw vegetables to taste",200,"g","Salad with chicken breast or tofu").
-ingredients("Pimiento",1,"Tsp","Salad with chicken breast or tofu").
-ingredients("Tomato",1,"Pza","Salad with chicken breast or tofu").
-ingredients("Organic coconut oil",1,"Diente","Salad with chicken breast or tofu").
-ingredients("For the sauce",2,"Tbsp","Salad with chicken breast or tofu").
-ingredients("Garlic",1,"Tbsp","Salad with chicken breast or tofu").
-ingredients("Yogurt",1,"Pinch","Salad with chicken breast or tofu").
-ingredients("Balsamic vinegar",1,"Pinch","Salad with chicken breast or tofu").
-ingredients("Sal",1,"Pizca","Salad with chicken breast or tofu").
-ingredients("Pimineta",1,"Pizca","Salad with chicken breast or tofu").
-
-type("Salad with chicken breast or tofu","Salad","Lower").
-
-prescription("Lamb's lettuce salad with sautéed sweet potato",694,"").
-
-ingredients("Batata",200,"g","Lamb's lettuce salad with sautéed sweet potato").
-ingredients("Cherry tomatoes",100,"g","Lamb's lettuce salad with sautéed sweet potato").
-ingredients("Organic coconut oil",1,"Tbsp","Lamb's lettuce salad with sautéed sweet potato").
-ingredients("Olive oil",1,"Tbsp","Lamb's lettuce salad with sautéed sweet potato").
-ingredients("Balsamic vinegar",1,"Tbsp","Lamb's lettuce salad with sautéed sweet potato").
-ingredients("Sal",1,"Pizca","Lamb's lettuce salad with sautéed sweet potato").
-ingredients("Pepper",1,"Pinch","Lamb's lettuce salad with sautéed sweet potato").
-ingredients("Pumpkin seeds",20,"g","Lamb's lettuce salad with sautéed sweet potato").
-
-type("Lamb's lettuce salad with sautéed sweet potato","Salad","Keep").
-
-prescription("Salad of asparagus with strawberries and feta cheese",76.25,"").
-
-ingredients("green asparagus",62.5,"g","Salad of asparagus with strawberries and feta cheese").
-ingredients("Rucula",20,"g","Salad of asparagus with strawberries and feta cheese").
-ingredients("Feta cheese",25,"g","Salad of asparagus with strawberries and feta cheese").
-ingredients("Strawberries",50,"g","Salad of asparagus with strawberries and feta cheese").
-ingredients("Pinones",7.5,"g","Salad of asparagus with strawberries and feta cheese").
-ingredients("White balsamic vinegar",1.5,"tbsp","Salad of asparagus with strawberries and feta cheese").
-ingredients("Honey",0.25,"Tbsp","Salad of asparagus with strawberries and feta cheese").
-ingredients("Olive oil",1.25,"Tbsp","Salad of asparagus with strawberries and feta cheese").
-ingredients("Sal",1,"Pizca","Salad of asparagus with strawberries and feta cheese").
-ingredients("Pepper",1,"Pizca","Salad of asparagus with strawberries and feta cheese").
-
-type("Salad of asparagus with strawberries and feta cheese","Salad","Lower").
-
-prescription("Buddha christmas bowl",515,"").
-
-ingredients("Spinach leaves",1,"Bunch","Buddha christmas bowl").
-ingredients("Brocoli",100,"g","Buddha christmas bowl").
-ingredients("Sugar peas",50,"g","Buddha christmas bowl").
-ingredients("Brussels sprouts",80,"g","Buddha christmas bowl").
-ingredients("Red cabbage",100,"g","Buddha christmas bowl").
-ingredients("Avocado",0.5,"g","Buddha christmas bowl").
-ingredients("Rabano",1,"Pza","Buddha christmas bowl").
-ingredients("Pomegranate seeds",30,"g","Buddha christmas bowl").
-ingredients("Rote Beete Hummus",50,"g","Buddha christmas bowl").
-ingredients("Vegan bread",1,"Slice","Buddha christmas bowl").
-
-type("Buddha christmas bowl","Salad","Keep").
-
-prescription("Semolina pudding without sugar",255,"").
-
-ingredients("Almond milk",200,"ml","Semolina pudding without sugar").
-ingredients("Water",30,"g","Semolina pudding without sugar").
-ingredients("Common wheat semolina",20,"g","Semolina pudding without sugar").
-ingredients("Whey protein to choose",80,"g","Semolina pudding without sugar").
-ingredients("Cherries (from a jar)",1,"Pinch","Semolina pudding without sugar").
-
-type("Semolina pudding without sugar","Salad","Lower").
-
-prescription("Mixed salad with orange and walnuts",189,"").
-
-ingredients("Chicoria",125,"g","Mixed salad with orange and walnuts").
-ingredients("Escarole",75,"g","Mixed salad with orange and walnuts").
-ingredients("Orange (medium size)",0.5,"g","Mixed salad with orange and walnuts").
-ingredients("Nuts",12.5,"g","Mixed salad with orange and walnuts").
-ingredients("Olive oil",1.5,"tbsp","Mixed salad with orange and walnuts").
-ingredients("Mustard",1,"Tbsp","Mixed salad with orange and walnuts").
-ingredients("Honey",0.5,"Tbsp","Mixed salad with orange and walnuts").
-ingredients("Sal",1,"Pizca","Mixed salad with orange and walnuts").
-ingredients("Pepper",1,"Pinch","Mixed salad with orange and walnuts").
-
-type("Mixed salad with orange and walnuts","Salad","Keep").
-
-prescription("Superfood Kale Salad",176,"").
-
-ingredients("Kale",100,"g","Superfood Kale Salad").
-ingredients("Carrot",50,"g","Superfood Kale Salad").
-ingredients("Limes",1,"Pza","Superfood Kale Salad").
-ingredients("Honey",0.5,"Tbsp","Superfood Kale Salad").
-ingredients("Coconut Oil",1.5,"Tbsp","Superfood Kale Salad").
-ingredients("White chia seeds",1,"Tbsp","Superfood Kale Salad").
-ingredients("Dried Cranberries",1,"Tbsp","Superfood Kale Salad").
-
-type("Superfood Kale Salad","Salad","Lower").
-
-prescription("Chickpea salad",470,"").
-
-ingredients("Canned Chickpeas",250,"g","Chickpea salad").
-ingredients("Cherry tomatoes",5,"g","Chickpea salad").
-ingredients("Cucumber",100,"g","Chickpea salad").
-ingredients("Olives (green or black)",19,"Pcs","Chickpea salad").
-ingredients("Olive oil",1,"Tbsp","Chickpea salad").
-ingredients("Apple vinegar",1,"Tbsp","Chickpea salad").
-ingredients("Fresh parsley",1,"Bouquet","Chickpea salad").
-ingredients("Salt",1,"Pinch","Chickpea salad").
-ingredients("Pepper (optional)",1,"Pinch","Chickpea salad").
-
-type("Chickpea salad","Salad","Keep").
-
-prescription("Vegetable bowl with turmeric dressing",458,"").
-
-ingredients("Sweet potato",200,"g","Vegetable bowl with turmeric dressing").
-ingredients("Brocoli",100,"g","Vegetable bowl with turmeric dressing").
-ingredients("Cherry tomatoes",4,"Pza","Vegetable bowl with turmeric dressing").
-ingredients("Radishes",3,"Pza","Vegetable bowl with turmeric dressing").
-ingredients("Quinoa",50,"g","Vegetable bowl with turmeric dressing").
-ingredients("Garlic clove",1,"Pza","Vegetable bowl with turmeric dressing").
-ingredients("Plain yogurt",3,"Tbsp","Vegetable bowl with turmeric dressing").
-ingredients("Sal",50,"g","Vegetable bowl with turmeric dressing").
-ingredients("Turmeric",0.25,"Tbsp","Vegetable bowl with turmeric dressing").
-
-type("Vegetable bowl with turmeric dressing","Salad","Lower").
+type("Breaded Cauliflower Steaks","Toi","Keep").
 
 
 %Rules

@@ -87,9 +87,9 @@ namespace NutriAdvice.Modules
             this.SelectTypeCmbbx.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.SelectTypeCmbbx.FormattingEnabled = true;
             this.SelectTypeCmbbx.Items.AddRange(new object[] {
-            "Breakfast",
-            "Lunch",
-            "Dinner"});
+            "Sang",
+            "Trua",
+            "Toi"});
             this.SelectTypeCmbbx.Location = new System.Drawing.Point(275, 115);
             this.SelectTypeCmbbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.SelectTypeCmbbx.Name = "SelectTypeCmbbx";
