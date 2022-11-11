@@ -16,6 +16,7 @@ namespace NutriAdvice.Modules
         public Recipe prescription = new();
 
         private string userDietAction;
+
         public string UserDietAction
         {
             set { userDietAction = value; }
@@ -23,6 +24,7 @@ namespace NutriAdvice.Modules
         }
 
         private double userDietIntake;
+
         public double UserDietIntake
         {
             set { userDietIntake = value; }
@@ -30,6 +32,7 @@ namespace NutriAdvice.Modules
         }
 
         private string userFoodType;
+
         public string UserFoodType
         {
             set { userFoodType = value; }
@@ -44,28 +47,31 @@ namespace NutriAdvice.Modules
 
             var prolog = new PrologEngine(persistentCommandHistory: false);
 
-            string filename = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\NutriAdvice-Expert-System\Prolog\Recipes_List.pl";
-
+            string filename = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) +
+                              @"\NutriAdvice-Expert-System\Prolog\Recipes_List.pl";
             if (!File.Exists(filename))
             {
-                string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\NutriAdvice-Expert-System\Prolog\";
+                string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) +
+                              @"\NutriAdvice-Expert-System\Prolog\";
                 FileInfo file = new(path);
                 file.Directory.Create();
                 MessageBox.Show("No File, Downloading .. ");
                 using (WebClient wc = new())
                 {
                     wc.DownloadFileAsync(
-                        new Uri("https://raw.githubusercontent.com/PhamVuThuNguyet/Windows-Programming-with-Csharp/master/NutriAdvice-Expert-System/Prolog/Recipes_List.pl"),
+                        new Uri(
+                            "https://raw.githubusercontent.com/PhamVuThuNguyet/Windows-Programming-with-Csharp/master/NutriAdvice-Expert-System/Prolog/Recipes_List.pl"),
                         filename
                     );
                 }
+
                 MessageBox.Show("Complete, please click again");
             }
 
-            string query = @"contains(" + '"' + userFoodType.ToString() + '"' + "," + '"' + userDietAction.ToString() + '"' + ", R, CS, L, I, C, M).";
+            string query = @"contains(" + '"' + userFoodType.ToString() + '"' + "," + '"' + userDietAction.ToString() +
+                           '"' + ", R, CS, L, I, C, M).";
 
             var solutions = prolog.GetAllSolutions(filename, query);
-            MessageBox.Show(query);
             string nameRecipe = "";
 
             // Get each solution list
@@ -74,7 +80,7 @@ namespace NutriAdvice.Modules
                 if (i == 0)
                 {
                     nameRecipe = solutions[i][0].Value;
-                    prescription.SetName(nameRecipe);
+                    prescription.SetName(solutions[i][0].Value);
                     prescription.SetCalories(solutions[i][1].Value);
                     prescription.SetLink(solutions[i][2].Value);
 

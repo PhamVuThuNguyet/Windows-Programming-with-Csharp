@@ -179,7 +179,7 @@ namespace NutriAdvice.Modules
             }
             else
             {
-                UserDietAction = "Lower";
+                UserDietAction = "Giam can";
                 if (overweightdiet < 1200) return 1300; else return overweightdiet;
             }
         }
