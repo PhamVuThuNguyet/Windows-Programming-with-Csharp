@@ -43,7 +43,7 @@ namespace NutriAdvice.Forms
             this.DisplayRecipeLink.AutoSize = true;
             this.DisplayRecipeLink.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.DisplayRecipeLink.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(193)))), ((int)(((byte)(68)))));
-            this.DisplayRecipeLink.Location = new System.Drawing.Point(14, 12);
+            this.DisplayRecipeLink.Location = new System.Drawing.Point(13, 9);
             this.DisplayRecipeLink.Name = "DisplayRecipeLink";
             this.DisplayRecipeLink.Size = new System.Drawing.Size(83, 17);
             this.DisplayRecipeLink.TabIndex = 3;

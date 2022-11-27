@@ -45,7 +45,7 @@ namespace NutriAdvice.Modules
             this.R,
             this.CS});
             this.dgvDisplayRecipes.EnableHeadersVisualStyles = false;
-            this.dgvDisplayRecipes.Location = new System.Drawing.Point(11, 13);
+            this.dgvDisplayRecipes.Location = new System.Drawing.Point(0, 0);
             this.dgvDisplayRecipes.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dgvDisplayRecipes.MultiSelect = false;
             this.dgvDisplayRecipes.Name = "dgvDisplayRecipes";
@@ -56,7 +56,7 @@ namespace NutriAdvice.Modules
             this.dgvDisplayRecipes.RowTemplate.Height = 25;
             this.dgvDisplayRecipes.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
             this.dgvDisplayRecipes.ShowCellErrors = false;
-            this.dgvDisplayRecipes.Size = new System.Drawing.Size(345, 553);
+            this.dgvDisplayRecipes.Size = new System.Drawing.Size(303, 553);
             this.dgvDisplayRecipes.TabIndex = 0;
             this.dgvDisplayRecipes.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvDisplayRecipes_CellClick);
             // 
@@ -83,7 +83,7 @@ namespace NutriAdvice.Modules
             this.Controls.Add(this.dgvDisplayRecipes);
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "ConsultPrologAndDisplayResultModule";
-            this.Size = new System.Drawing.Size(371, 567);
+            this.Size = new System.Drawing.Size(302, 553);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDisplayRecipes)).EndInit();
             this.ResumeLayout(false);
 

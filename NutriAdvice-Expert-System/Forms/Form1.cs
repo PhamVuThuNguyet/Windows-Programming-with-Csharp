@@ -1,5 +1,6 @@
 ﻿using NutriAdvice.Modules;
 using System;
+using System.Diagnostics;
 using System.Windows.Forms;
 
 namespace NutriAdvice
@@ -105,6 +106,17 @@ namespace NutriAdvice
         private void DisplayResults_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            String url = "https://nguyetpvt-diseases-prediction.hf.space/";
+            ProcessStartInfo psi = new ProcessStartInfo
+            {
+                FileName = url,
+                UseShellExecute = true
+            };
+            Process.Start(psi);
         }
     }
 }
